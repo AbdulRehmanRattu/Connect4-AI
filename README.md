@@ -1,11 +1,25 @@
 # Connect Four Adversarial AI Game Engine (Minimax with Alpha-Beta Pruning)
 
+<div align="center">
+
+[<img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License">](https://opensource.org/licenses/Apache-2.0)
+<img src="https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-3776AB.svg?logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Vision-PyTorch%20%7C%20OpenCV-EE4C2C.svg?logo=pytorch&logoColor=white" alt="Vision">
+<img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg" alt="Status">
+
+**Enterprise-grade, high-performance implementation built and maintained by Abdul Rehman Rattu.**
+
+[Overview](#overview) • [Key Features](#key-features) • [Installation & Usage](#quickstart--usage) • [Author & Maintainer](#author--maintainer)
+
+</div>
+
+---
+
 ## Overview
 
 This project implements an intelligent, real-time adversarial game engine for Connect Four (6x7 grid) built with Python and Pygame. The computer agent utilizes the Minimax decision algorithm augmented with Alpha-Beta pruning and a multi-factor positional evaluation heuristic to achieve near-optimal, unbeatable gameplay against human opponents.
 
 ---
-
 
 ---
 
@@ -129,3 +143,15 @@ python connect4.py
 - **Mouse Motion**: Position the player disc horizontally across the top lane.
 - **Left Mouse Click**: Confirm selection and drop disc into the chosen column.
 - **Game Reset**: Close the window or wait for the winner banner upon game conclusion.
+
+---
+
+## Author & Maintainer
+
+**Abdul Rehman Rattu**  
+*Forward Deployed AI Engineer & Solutions Architect*  
+*Founder & Technical Lead, Rapide Technologies*
+
+* **Email**: [rattu786.ar@gmail.com](mailto:rattu786.ar@gmail.com)
+* **LinkedIn**: [linkedin.com/in/abdul-rehman-rattu-395bba237](https://www.linkedin.com/in/abdul-rehman-rattu-395bba237)
+* **GitHub**: [github.com/AbdulRehmanRattu](https://github.com/AbdulRehmanRattu)
