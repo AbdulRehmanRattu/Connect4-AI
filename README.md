@@ -3,13 +3,15 @@
 <div align="center">
 
 [<img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License">](https://opensource.org/licenses/Apache-2.0)
-<img src="https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-3776AB.svg?logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Vision-PyTorch%20%7C%20OpenCV-EE4C2C.svg?logo=pytorch&logoColor=white" alt="Vision">
+<img src="https://img.shields.io/badge/Python-3.10%20%7C%203.11-3776AB.svg?logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Game%20AI-Minimax%20Algorithm-0052FF.svg" alt="Minimax">
+<img src="https://img.shields.io/badge/Optimization-Alpha--Beta%20Pruning-9cf.svg" alt="Alpha-Beta">
+<img src="https://img.shields.io/badge/GUI-Pygame-yellowgreen.svg" alt="Pygame">
 <img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg" alt="Status">
 
 **Enterprise-grade, high-performance implementation built and maintained by Abdul Rehman Rattu.**
 
-[Overview](#overview) • [Key Features](#key-features) • [Installation & Usage](#quickstart--usage) • [Author & Maintainer](#author--maintainer)
+[Overview](#overview) • [Key Features](#key-features) • [Installation & Usage](#quickstart--deployment) • [Author & Maintainer](#author--maintainer)
 
 </div>
 
@@ -143,6 +145,8 @@ python connect4.py
 - **Mouse Motion**: Position the player disc horizontally across the top lane.
 - **Left Mouse Click**: Confirm selection and drop disc into the chosen column.
 - **Game Reset**: Close the window or wait for the winner banner upon game conclusion.
+
+---
 
 ---
 
